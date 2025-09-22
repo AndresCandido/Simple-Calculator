@@ -1,6 +1,6 @@
 # Simple-Calculator
 
-Scripts for functions present in a simple calculator - made using MIPS assembly language
+A collection of scripts for functions present in a simple calculator - made using the MIPS assembly language
 
 ## Features
 
